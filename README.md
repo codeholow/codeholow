@@ -1,10 +1,5 @@
 <div align="center">
 
-  <!-- Banner do Header estilizado -->
-  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" width="100%" height="200px" style="object-fit: cover;" alt="Header Banner" />
-
-  <br>
-
   <!-- Badges de Status / Métricas estilo Persona/Dark -->
   <a href="https://github.com/codeholow">
     <img src="https://img.shields.io/github/stars/codeholow?style=for-the-badge&color=D32F2F&labelColor=000000&logo=github" />

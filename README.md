@@ -1,24 +1,51 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" width="600px" alt="Code Hollow GIF" />
-
-  # ⭒.˚⏾⋆.˚ CODE HOLOW
-  *“E se a gente levasse a programação longe demais?”*
-
-  [![YouTube Channel Subscribers](https://img.shields.io/badge/YouTube-Code%20Hollow-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-  [![GitHub Followers](https://img.shields.io/github/followers/codeholow?style=for-the-badge&logo=github&label=Seguidores&color=000000)](https://github.com/codeholow)
+  <!-- Banner do Header estilizado -->
+  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" width="100%" height="200px" style="object-fit: cover;" alt="Header Banner" />
 
   <br>
 
-  > *De desafios de código a softwares de anime recriados na vida real. Se dá pra codar, eu tento.*
+  <!-- Badges de Status / Métricas estilo Persona/Dark -->
+  <a href="https://github.com/codeholow">
+    <img src="https://img.shields.io/github/stars/codeholow?style=for-the-badge&color=D32F2F&labelColor=000000&logo=github" />
+  </a>
+  <a href="https://github.com/codeholow">
+    <img src="https://img.shields.io/github/followers/codeholow?style=for-the-badge&color=D32F2F&labelColor=000000&logo=github" />
+  </a>
+  <a href="https://youtube.com">
+    <img src="https://img.shields.io/badge/YouTube-Code%20Hollow-D32F2F?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" />
+  </a>
+
+</div>
+
+<br>
+
+<!-- Seção Quem Sou Eu (Side by Side / Foto + Texto) -->
+<table>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/1200x/85/10/38/851038064fdd12647b21b83e849a2ced.jpg" width="100%" style="border-radius: 10px;" alt="Code Hollow GIF" />
+    </td>
+    <td width="60%" valign="top">
+      <h3><b>⚪️ Quem Sou Eu? / ⚫️ Who Am I?</b></h3>
+      <p>
+        Me chamo <b>Sam</b>, tenho 24 anos e vivo na fronteira entre a engenharia de software e a cibersegurança. Sou criador do canal <b>Code Hollow</b>, focado em levar a programação ao limite. De desafios de código a softwares de anime recriados na vida real. 
+      </p>
+            <p>
+        <i> "Se dá pra codar, eu tento."</i>
+      </p>
+      <p>
+        Com sólida experiência em desenvolvimento <b>Fullstack (React, Node.js, Python)</b> e forte afinidade por <b>OSINT, Investigação Digital e Linux</b>, busco sempre unir design marcante, lógica afiada e segurança em tudo o que codifico.
+      </p>
+  </tr>
+</table>
+
 
 </div>
 
 ---
 
-### ⚪️⚫️ Sobre o Criador
-
-> ❝ *Me chamo Sam, tenho 24 anos e navego no lado mais profano da tecnologia, entre a engenharia de software e a cibersegurança.* ❞
+### ⚪️⚫️ Sobre mim
 
 * 📺 **ᴄʀɪᴀᴅᴏʀ ᴅᴇ ᴄᴏɴᴛᴇuᴅᴏ** — Dando vida a projetos loucos e experimentos de código no canal **Code Hollow**.
 * 🕵️ **ɪɴᴠᴇꜱᴛɪɢᴀçãᴏ ᴄɪʙᴇʀɴéᴛɪᴄᴀ** — OSINT, forense digital e análise de vulnerabilidades.

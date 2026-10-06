@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td width="40%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/1200x/85/10/38/851038064fdd12647b21b83e849a2ced.jpg" width="100%" style="border-radius: 10px;" alt="Code Hollow GIF" />
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/1280px-Yin_yang.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="100%" style="border-radius: 10px;" alt="Code Hollow GIF" />
     </td>
     <td width="60%" valign="top">
       <h3><b>⚪️ Quem Sou Eu? / ⚫️ Who Am I?</b></h3>

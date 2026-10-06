@@ -24,7 +24,7 @@
     <td width="60%" valign="top">
       <h3><b>⚪️ Quem Sou Eu? / ⚫️ Who Am I?</b></h3>
       <p>
-        Me chamo <b>Sam</b>, tenho 24 anos e vivo na fronteira entre a engenharia de software e a cibersegurança. Sou criador do canal <b>Code Hollow</b>, focado em levar a programação ao limite. De desafios de código a softwares de anime recriados na vida real. 
+        Me chamo <b>Melo</b>, tenho 24 anos e vivo na fronteira entre a engenharia de software e a cibersegurança. Sou criador do canal <b>Code Hollow</b>, focado em levar a programação ao limite. De desafios de código a softwares de anime recriados na vida real. 
       </p>
             <p>
         <i> "Se dá pra codar, eu tento."</i>

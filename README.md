@@ -24,13 +24,13 @@
     <td width="60%" valign="top">
       <h3><b>⚪️ Quem Sou Eu? / ⚫️ Who Am I?</b></h3>
       <p>
-        Me chamo <b>Melo</b>, tenho 24 anos e vivo na fronteira entre a engenharia de software e a cibersegurança. Sou criador do canal <b>Code Hollow</b>, focado em levar a programação ao limite.
+        Me chamo <b>Melo</b>, tenho 24 anos e vivo na fronteira entre a programação e a cibersegurança. Sou criador do canal <b>Code Hollow</b>, focado em levar a programação ao limite.
       </p>
             <p>
         <i> "Se dá pra codar, eu tento."</i>
       </p>
       <p>
-        Com sólida experiência em desenvolvimento <b>Fullstack (React, Node.js, Python)</b> e forte afinidade por <b>OSINT, Investigação Digital e Linux</b>, busco sempre unir design marcante, lógica afiada e segurança em tudo o que codifico.
+        Experiência em desenvolvimento <b>Fullstack (React, Node.js, Python)</b> e forte afinidade por <b>OSINT, Investigação Digital e Linux</b>
       </p>
   </tr>
 </table>
